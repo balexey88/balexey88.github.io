@@ -12,3 +12,12 @@ jobs:
 
       - name: List files
         run: find . -type f | grep -v '.git'
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: List files
+        run: find . -type f | grep -v '.git'
