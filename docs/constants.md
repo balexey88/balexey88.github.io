@@ -1,10 +1,9 @@
 ---
 title: Constants
-sidebar_title: Constants
 permalink: /docs/constants/
 ---
 
-Current time: 2023-11-29 13:08:23 +0200
+Current time: 2023-11-29 13:47:32 +0200
 
 Constants are set via the [wp-config.php file](https://codex.wordpress.org/Editing_wp-config.php) and will override any settings configured at the network or site level.
 
