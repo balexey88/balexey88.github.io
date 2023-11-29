@@ -2,3 +2,4 @@
 
 ### test 
 
+[Sample page](/page/)

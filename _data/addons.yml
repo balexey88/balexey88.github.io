@@ -1,0 +1,10 @@
+- slug: divi
+  name: Divi Theme
+  icon: /assets/icons/divi-icon.svg
+  repo: udx/wp-stateless-divi-addon
+
+- slug: elementor
+  name: Elementor Website Builder
+  icon: https://ps.w.org/elementor/assets/icon.svg
+  repo: udx/wp-stateless-elementor-addon
+
