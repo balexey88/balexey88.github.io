@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: List files
-        run: find . -type f -name
+        run: find . -type f | grep -v '.git'
