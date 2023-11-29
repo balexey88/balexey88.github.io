@@ -1,0 +1,14 @@
+name: Update Constants
+run-name: Update Constants
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-constants:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: List files
+        run: npmls -la
