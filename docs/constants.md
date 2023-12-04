@@ -3,7 +3,7 @@ title: Constants
 permalink: /docs/constants/
 ---
 
-Current time: 2023-11-29 13:47:32 +0200
+Mon Dec  4 01:40:17 PM EET 2023
 
 Constants are set via the [wp-config.php file](https://codex.wordpress.org/Editing_wp-config.php) and will override any settings configured at the network or site level.
 
