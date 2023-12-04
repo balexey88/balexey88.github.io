@@ -1,3 +1,4 @@
-whitelist:
-  - constants-generator
+exclude:
+  - bin
+  - README.md
   
