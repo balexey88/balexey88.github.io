@@ -8,3 +8,14 @@
   icon: https://ps.w.org/elementor/assets/icon.svg
   repo: udx/wp-stateless-elementor-addon
 
+- slug: gravity-forms
+  name: Gravity Forms
+  icon: https://cdn2.hubspot.net/hub/4148022/hubfs/Artboard%20Copy%2011.png?width=108&height=108
+  branch: develop-alexey
+  repo: udx/wp-stateless-gravity-forms-addon
+
+- slug: buddypress
+  name: BuddyPress
+  repo: udx/wp-stateless-buddypress-addon
+  icon: https://ps.w.org/buddypress/assets/icon.svg
+
